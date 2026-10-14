@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Carpetas de compilación
+x64/
+x86/
+Debug/
+Release/
+**/Debug/
+**/Release/
+
+# Archivos compilados
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog
+
+# Archivos de usuario
+*.user
+*.suo
